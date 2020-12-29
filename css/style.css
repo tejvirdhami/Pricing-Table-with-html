@@ -1,0 +1,54 @@
+th /* CSS FOR TABLE HEADING */
+{
+	font-size:50px;
+	
+}
+td /* FOR ALIGNING THE TEXT IN CENTER */
+{
+	text-align:center;
+}
+.col1 /* ADDING VISUALS TO COLUMN 1 */
+{
+	background-color: #ff0000;
+	color:#ffffff;
+}
+.col2 /* ADDING VISUALS TO COLUMN 2 */
+{
+	background-color: #0000FF;
+	color:#ffffff;
+}
+.col3 /* ADDING VISUALS TO COLUMN 3 */
+{
+	background-color:#008000;
+	color:#ffffff;
+}
+.grey /* ADDING GREY BACKGROUND */
+{
+	background-color:#c9c8c5;
+}
+table
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+	margin-left:auto;
+	margin-right:auto;
+	table-layout: auto;
+    width: 20%;  
+}
+input /* ADDING VISUALS TO BUTTONS */
+{
+border-radius:4px;
+}
+
+input#submit1 
+{
+background-color:#9c4b11;
+}
+input#submit2
+{
+background-color:#05c6e8;
+}
+input#submit3
+{
+background-color:#0abf28;
+}
